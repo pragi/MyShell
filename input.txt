@@ -1,0 +1,3 @@
+cd /home/csee1/pragnesh
+dir cop4600
+quit
